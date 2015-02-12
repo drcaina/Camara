@@ -18,6 +18,7 @@ public class Camara extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_camara);
         //CAMARA
+        //CAMBIO PARA GITHUB
         Button pic=(Button)findViewById(R.id.btcam);
         pic.setOnClickListener(new OnClickListener(){
            @Override
